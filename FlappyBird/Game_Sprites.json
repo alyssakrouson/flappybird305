@@ -1,0 +1,60 @@
+{"frames": {
+
+"Bird_Dead.png":
+{
+	"frame": {"x":0,"y":0,"w":85,"h":61},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":85,"h":61},
+	"sourceSize": {"w":85,"h":61}
+},
+"Bird_Idle.png":
+{
+	"frame": {"x":0,"y":61,"w":80,"h":55},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":55},
+	"sourceSize": {"w":80,"h":55}
+},
+"Bird_Impacted.png":
+{
+	"frame": {"x":0,"y":116,"w":83,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":83,"h":62},
+	"sourceSize": {"w":83,"h":62}
+},
+"Ground.png":
+{
+	"frame": {"x":0,"y":178,"w":93,"h":57},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":57},
+	"sourceSize": {"w":93,"h":57}
+},
+"Pipe.png":
+{
+	"frame": {"x":0,"y":235,"w":80,"h":420},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":420},
+	"sourceSize": {"w":80,"h":420}
+},
+"Sunglasses.png":
+{
+	"frame": {"x":0,"y":655,"w":57,"h":51},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":57,"h":51},
+	"sourceSize": {"w":57,"h":51}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "New_Game_Sprites.png",
+	"format": "RGBA8888",
+	"size": {"w":93,"h":706},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:ad08738af6bfb05171f18b7fbb1069a4:9a06dfe9f108d5da41bd605451ad9730:28d88a6391f993f21aabfbed92d823d5$"
+}
+}
