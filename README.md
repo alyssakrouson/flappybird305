@@ -2,6 +2,6 @@
 
 Required for this to run:
 - Python
-- Pygame
+- Pygame==2.1.2
 
 Download all files and run the main file
